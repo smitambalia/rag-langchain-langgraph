@@ -1,0 +1,16 @@
+python-dotenv
+langchain
+langchain-core
+langchain-community
+
+## LLM Providers
+langchain-groq # LLM provider for Groq , free to use 
+langchain-text-splitters  # Data chunking and text splitting utilities for LangChain
+
+# Vector DB 
+faiss-cpu # local vector database for similarity search and retrieval
+
+#notebook 
+jupyter
+ipykernel
+
